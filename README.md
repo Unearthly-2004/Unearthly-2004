@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Student, in Data Science.<br>👯 I'm Open to Collaborate.<br>🤝 I'm currently working in BLOCKCHAIN RCOEM CHAPTER.<br>🌱 I'm a technology lurker and a foodie.<br>💬 Ask me about MERN, Blockchain and food.<br>
+🔭 I'm a Student, in Data Science.<br>👯 I'm Open to Collaborate.<br>🌱 I'm a technology lurker and a foodie.
 
 
 ## 🌐 Socials:
